@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Dogville",
+    "AnoDeLancamento": 2003,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 17
+  },
+  {
+    "Nome": "Dune",
+    "AnoDeLancamento": 1984,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 13
+  },
+  {
+    "Nome": "Matrix",
+    "AnoDeLancamento": 1993,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 60
+  }
+]

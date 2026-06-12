@@ -1,0 +1,3 @@
+nome: Dogville
+AnoDeLancamento: 2003
+Duraçao em minutos:  171
